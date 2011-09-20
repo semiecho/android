@@ -61,7 +61,7 @@
   <project path="external/iptables" name="platform_external_iptables" />
   <project path="external/jdiff" name="platform_external_jdiff" />
   <project path="external/jhead" name="platform_external_jhead" />
-  <project path="external/jpeg" name="external_jpeg"/>
+  <project path="external/jpeg" name="platform_external_jpeg"/>
   <project path="external/jsr305" name="platform/external/jsr305" remote="caf" revision="aosp/gingerbread" />
   <project path="external/junit" name="platform/external/junit" remote="caf" revision="aosp/gingerbread" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="caf" revision="aosp/gingerbread" />
@@ -69,7 +69,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" remote="caf" revision="gingerbread" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="caf" revision="gingerbread" />
   <project path="external/libpcap" name="platform_external_libpcap" />
-  <project path="external/libpng" name="external_libpng" />
+  <project path="external/libpng" name="platform_external_libpng" />
   <project path="external/libvpx" name="platform/external/libvpx" remote="caf" revision="gingerbread" />
   <project path="external/libxml2" name="platform_external_libxml2" />
   <project path="external/mtpd" name="platform/external/mtpd" remote="caf" revision="aosp/gingerbread" />
@@ -84,7 +84,7 @@
   <project path="external/ppp" name="platform_external_ppp" />
   <project path="external/proguard" name="platform/external/proguard" remote="caf" revision="aosp/gingerbread" />
   <project path="external/protobuf" name="platform_external_protobuf" />
-  <project path="external/qemu" name="platform_external_qemu" />
+  <project path="external/qemu" name="platform_external_qemu" revision="tools_r7" />
   <project path="external/quake" name="platform/external/quake" remote="caf" revision="aosp/gingerbread" />
   <project path="external/safe-iop" name="platform_external_safe-iop" />
   <project path="external/skia" name="platform/external/skia" remote="caf" revision="aosp/gingerbread" />
