@@ -22,7 +22,7 @@
   <project path="dalvik" name="platform_dalvik" />
   <project path="development" name="platform_development" />
   <project path="device/common" name="device/common" remote="caf" revision="aosp/gingerbread" />
-  <project path="device/htc/common" name="device/htc/common" remote="caf" revision="aosp/gingerbead"/>
+  <project path="device/htc/common" name="device/htc/common" remote="caf" revision="aosp/gingerbread"/>
   <project path="device/sample" name="device/sample" remote="caf" revision="aosp/gingerbread" />
   <project path="external/apache-http" name="platform_external_apache-http" />
   <project path="external/astl" name="platform/external/astl" remote="caf" revision="aosp/gingerbread" />
